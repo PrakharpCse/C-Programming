@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+ float rupees;
+ printf("enter the amount in rupees:\n);
+ scanf("%f",&rupees);
+ printf("amount in dollars:%f\n",rupees*0.012);
+ printf("amount in euros:%f\n", rupees*0.011);
+ printf("amount in yen:%f\n", rupees*1.77);
+ printf("amount in rubel:%f\n", rupees*1.16);
+}
