@@ -1,0 +1,11 @@
+#include<stdio.h>
+ int disp(){
+ printf("Diya\n");
+ printf("Puja\n");
+ printf("Khushi\n");
+ printf("Tanya\n");
+ printf("Amrita\n");
+} 
+ int main(){
+  disp();
+}
