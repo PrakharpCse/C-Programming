@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+int n,i=1;
+float conv,sm=0;
+printf("Enter range: ");
+scanf("%d",&n);
+while(i<=n)
+{
+conv= (float)1/(i*i);
+sm+=conv;
+i++;
+}
+printf("Sum of the series is: %.3f",sm);
+return 0;
+}
