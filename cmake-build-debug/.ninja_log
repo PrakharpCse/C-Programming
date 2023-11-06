@@ -1,9 +1,11 @@
 # ninja log v5
-1	122	7203807552940327	CMakeFiles/C_Programming.dir/x01.c.obj	b8d6001997864f1a
 9	157	7206279395558679	CMakeFiles/C_Programming.dir/capture_elements.c.obj	f115e470b9c146fc
-0	112	7209794039284968	build.ninja	978fa2444b27fd1d
-1	164	7206279607837685	C_Programming.exe	c0b1b699d90ca56a
-8	153	7206271990137797	CMakeFiles/C_Programming.dir/arrays.1.c.obj	b733563c98650375
-0	285	7209794039284968	build.ninja	978fa2444b27fd1d
-0	595	7209794045549823	CMakeFiles/C_Programming.dir/arrays.1.c.obj	b733563c98650375
+1	122	7203807552940327	CMakeFiles/C_Programming.dir/x01.c.obj	b8d6001997864f1a
 595	806	7209794047587831	C_Programming.exe	8dade6df77821b9a
+0	285	7209797746273473	build.ninja	978fa2444b27fd1d
+0	595	7209794045549823	CMakeFiles/C_Programming.dir/arrays.1.c.obj	b733563c98650375
+1	278	7209797746273473	build.ninja	978fa2444b27fd1d
+0	531	7209797751904352	CMakeFiles/C_Programming.dir/arrays.2.c.obj	e0d4cb2d262bd4a3
+531	705	7209797753606843	C_Programming.exe	ffab7220cd7c90ff
+1	442	7209798547639259	CMakeFiles/C_Programming.dir/arrays.2.c.obj	e0d4cb2d262bd4a3
+444	657	7209798549833237	C_Programming.exe	ffab7220cd7c90ff
